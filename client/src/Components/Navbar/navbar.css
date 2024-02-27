@@ -1,0 +1,22 @@
+.row {
+    width: 100%;
+}
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+
+/* visitor navbar */
+
+.visitorNav{
+    background-color: #525CEB;
+    width: 100%;
+    color: #fff;
+    font-weight: 500;
+}
+.profile , .cart{
+    font-size: 30px;
+}
